@@ -51,6 +51,7 @@ padding-top:10px;padding-bottom:10px;}
 .acc-container .content{ padding: 2px 15px 5px 0px;  font:Normal 12px Arial, Helvetica, sans-serif; color:#442720; line-height:18px;}
 .content p { margin-bottom: 10px; }
 
+.imageResponsive{width:100%;height:auto}
 
 /* Special class on .container surrounding .navbar, used for positioning it into place. */
 .navbar-wrapper {
